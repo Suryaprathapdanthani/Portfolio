@@ -1,0 +1,91 @@
+PAGES: 1
+DHANTHANI SURYAPRATHAP 
+LinkedIn: https://www.linkedin.com/in/surya-prathap/                                   Email: suryaprathap902@gmail.com 
+GitHub   : https://github.com/Suryaprathapdanthani 
+     Mobile: +91-7416969506 
+SKILLS 
+• Languages: 
+C++, Java, C, Python, JavaScript, HTML, CSS, SQL 
+• Frameworks: 
+Pandas, NumPy, Seaborn, R Studio, Matplotlib 
+• Tools/Databases: Power BI, Excel, Tableau, Spyder, PowerPoint, MySQL 
+• Soft Skills: 
+Consistency, Adaptability, Problem Solving, Time Management 
+ 
+  PROJECTS 
+• Snake Game With Dynamic Score Tracking            
+ 
+ 
+                                                            Jul’ 25 
+• 
+Developed an interactive Snake Game featuring smooth controls and responsive gameplay 
+mechanics. 
+• 
+Designed to provide real-time score tracking based on snake growth and survival duration 
+while ensuring engaging user interaction. 
+• 
+Strengthened logical thinking and practical application of DSA concepts by effectively 
+managing movement, collision detection, and game states 
+• 
+ Tech: HTML, CSS, JavaScript 
+• E-Commerce Sales Insights Visualization System  
+           
+ 
+                                                       May’ 25 
+• 
+Developed a comprehensive e-commerce sales analytics and visualization system with 
+interactive dashboards.  
+• 
+Built to analyze and present key business metrics such as yearly sales trends, payment 
+distribution, category-wise performance, and state-wise revenue. 
+• 
+Enabled faster and data-driven decision-making by delivering real-time insights, accurate 
+sales tracking, and clear performance analysis across categories and regions. 
+• 
+Tech: Java 
+ 
+TRAINING 
+•  Mastering Data Structures and Algorithms   
+ 
+ 
+ 
+ 
+ 
+• 
+Completed training focused on core Data Structures and algorithmic problem-solving. 
+• 
+Gained hands-on experience with arrays, linked lists, stacks, queues, trees, graphs, sorting, 
+and searching techniques. 
+• 
+Improved complexity analysis skills and strengthened logical reasoning through regular 
+coding exercises and algorithmic challenges. 
+• 
+Tech: C++ 
+CERTIFICATES 
+• Cloud Computing | NPTEL  
+ 
+                                                                                                                      Nov’ 25 
+• Computational Theory: Language Principle & Finite Automata Theory| Infosys Springboard                                 Aug’ 25 
+• Mastering Data Structures and Algorithms| Lovely Professional University                                                                  Apr’25 
+• The Bits and Bytes of Computer Networking| Coursera                                                                                                      Sep’24 
+• Responsive Web Design | freeCodeCamp                    
+ 
+ 
+                                                                               Nov’23 
+ACHIEVEMENTS 
+• Participated in Hack-Verse, showcasing strong skills in coding, rapid problem-solving, and team collaboration.  
+EDUCATION 
+Lovely Professional University                                                                                                                              Punjab, India 
+Bachelor of Technology in Computer Science and Engineering | CGPA: 6.37                                         Aug’ 23 – Present 
+SR Junior College                                                                                                                        Anantapur, Andhra Pradesh 
+Intermediate | Percentage: 95.8% 
+ 
+        Apr’ 22 – Mar’ 23 
+Sree Nethaji Em School                                                                                                             Anantapur, Andhra Pradesh 
+Matriculation | Percentage: 97.8% 
+ 
+        Apr’ 20 – Mar’ 21 
+• 
+• 
+• 
+                                   Jul’ 25 
